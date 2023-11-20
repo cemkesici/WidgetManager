@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetManager</string>
+    <string name="refresh_quote">Refresh Quote</string>
+    <string name="test">TEST</string>
+</resources>
